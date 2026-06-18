@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**adam99smart/adam99smart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Full Stack Developer by day ☼ and Open Source Contributor by night ☾
 
-Here are some ideas to get you started:
+Full Stack Developer at []();<br>
+Based in Egypt;<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily: `.html, .css, .js, .php, .mysql, .python, .net`
+- 🌍 I'm mostly active within the **Linux Community**
+- 💬 `ping` me about **Web development, Cloud, Linux servers, Mobile development**
+- 📫 How to reach me: [adam99smart@gmail.com](mailto:adam99smart@gmail.com)
+- ⚡ Fun fact: I once built a mobile app that helps users track their daily water intake – hydration is key!
+
+---
